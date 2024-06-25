@@ -89,9 +89,9 @@ to_number = 'whatsapp:client_number_here'
 The main script integrates all modules to generate the invoice, upload it to Cloudinary, and send it via WhatsApp
 
 #### Dependencies
--`invoiceManager`
--`urlGen`
--`messageManager`
+-invoiceManager
+-urlGen
+-messageManager
 
 ```python
 from invoiceManager import invoice
