@@ -1,9 +1,9 @@
-twilio version:  8.13.0
-docxtpl version:  0.17.0
-docx2pdf version:  0.1.8
-fitz version:  1.23.21
-cloudinary version:  1.40.0
-PIL version:  9.3.0
+twilio==8.13.0
+docxtpl== 0.17.0
+docx2pdf==0.1.8
+fitz==1.23.21
+cloudinary==1.40.0
+PIL==9.3.0
 os
 
 
