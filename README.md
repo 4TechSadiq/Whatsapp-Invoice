@@ -130,4 +130,4 @@ message(url=url, name='demo', date='July 8, 2019')
 
 ## Demo Image
 ## Repository Structure
-- **Whatsapp.png**: The main demo image file.
+- **./Whatsapp invoice/Whatsapp.png**: The main demo image file.
