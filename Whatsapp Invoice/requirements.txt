@@ -1,0 +1,25 @@
+twilio version:  8.13.0
+docxtpl version:  0.17.0
+docx2pdf version:  0.1.8
+fitz version:  1.23.21
+cloudinary version:  1.40.0
+PIL version:  9.3.0
+os
+
+
+
+# import twilio
+# import os
+# import docxtpl
+# import docx2pdf
+# import fitz
+# import cloudinary
+# import PIL
+
+
+# print("twilio version ", twilio.__version__)
+# print('docxtpl version: ', docxtpl.__version__)
+# print('docx2pdf version: ', docx2pdf.__version__)
+# print('fitz version: ', fitz.__version__)
+# print('cloudinary version: ', cloudinary.VERSION)
+# print('PIL version: ', PIL.__version__)
