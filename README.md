@@ -127,8 +127,9 @@ message(url=url, name='demo', date='July 8, 2019')
    ```
    Replace https://github.com/your_username/your_repository.git with the actual URL of your Git repository. If you have a requirements.txt file listing all dependencies, use pip install -r requirements.txt to install them in one go. If not, install each package individually as shown.
 
+## Contributing
+Feel free to open issues or submit pull requests. Contributions are welcome!
 
-## Demo Image
-
-- **./Whatsapp invoice/Whatsapp.png**: The main demo image file.
+## License
+This project is licensed under the MIT License.
 
