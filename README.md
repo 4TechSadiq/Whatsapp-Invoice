@@ -131,5 +131,5 @@ message(url=url, name='demo', date='July 8, 2019')
 Feel free to open issues or submit pull requests. Contributions are welcome!
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 license.
 
